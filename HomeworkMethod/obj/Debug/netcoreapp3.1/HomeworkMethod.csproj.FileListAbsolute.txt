@@ -1,0 +1,14 @@
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.exe
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.runtimeconfig.dev.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.dll
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\bin\Debug\netcoreapp3.1\HomeworkMethod.pdb
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.dll
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.pdb
+C:\Users\Farid\Desktop\homewotk\c#\HomeworkMethod\HomeworkMethod\obj\Debug\netcoreapp3.1\HomeworkMethod.genruntimeconfig.cache
